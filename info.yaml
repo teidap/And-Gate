@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       481222137533213697
+  wokwi_id:     481222137533213697
   title:        "And Gate"      
   author:       "Padiet"      
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
