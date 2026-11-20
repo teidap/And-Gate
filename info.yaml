@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     0       481222137533213697
-  title:        ""      "And Gate"
-  author:       ""      "Padiet"
+  title:        "And Gate"      
+  author:       "Padiet"      
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      "And Gate Workshop"
+  description:  "And Gate Workshop"      
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
